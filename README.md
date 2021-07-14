@@ -2,7 +2,7 @@
 
 ## Outline of Data Cleaning Project
 
-Convert given date to date format
+Convert given datetime to date format
 
 Break Property address to street address, city, and state, zip code
 
