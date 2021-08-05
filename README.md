@@ -2,10 +2,12 @@
 
 ## Outline of Data Cleaning Project
 
-Convert given datetime to date format
+This short analysis project cleans housing addresses data by using SQL.
 
-Break Property address to street address, city, and state, zip code
+Removed time from datetime format, so that only date is kept.
 
-Replace null values with appropriate values
+Replaced null values with appropriate values.
 
-Unify similar responses with single response
+Splitted property address to street address, city, state, and zip code.
+
+Changed similar responses into single common response.
